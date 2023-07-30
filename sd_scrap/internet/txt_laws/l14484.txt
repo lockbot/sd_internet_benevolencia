@@ -1,0 +1,4680 @@
+![Brasão das Armas Nacionais da República Federativa do
+Brasil](http://www.planalto.gov.br/ccivil_03/img/brasao.png)
+
+|
+
+** Presidência da República** **  
+** ** Secretaria-Geral** **  
+** ** Subchefia para Assuntos Jurídicos**  
+  
+---|---  
+  
+** LEI Nº 14.484, DE 21 DE DEZEMBRO DE 2022 **
+
+|
+
+Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Ciência,
+Tecnologia e Inovações; da Educação; da Justiça e Segurança Pública; de Minas
+e Energia; da Infraestrutura; das Comunicações; e do Desenvolvimento Regional,
+crédito especial no valor de R$ 35.398.824,00, para os fins que especifica.  
+  
+---|---  
+  
+**O PRESIDENTE DA REPÚBLICA** Faço saber que o Congresso Nacional decreta e eu
+sanciono a seguinte Lei:
+
+Art. 1º Fica aberto ao Orçamento Fiscal da União (Lei nº 14.303, de 21 de
+janeiro de 2022), em favor dos Ministérios da Ciência, Tecnologia e Inovações;
+da Educação; da Justiça e Segurança Pública; de Minas e Energia; da
+Infraestrutura; das Comunicações; e do Desenvolvimento Regional, crédito
+especial no valor de R$ 35.398.824,00 (trinta e cinco milhões trezentos e
+noventa e oito mil oitocentos e vinte e quatro reais), para atender às
+programações constantes do Anexo I.
+
+Art. 2º Os recursos necessários à abertura do crédito de que trata o art. 1º
+decorrem de anulação de dotações orçamentárias, conforme indicado no Anexo II.
+
+Art. 3º Esta Lei entra em vigor na data de sua publicação.
+
+Brasília, 21 de dezembro de 2022; 201º da Independência e 134º da República.
+
+JAIR MESSIAS BOLSONARO
+
+Marcelo Pacheco dos Guaranys
+
+Este texto não substitui o publicado no DOU de 22.12.2022
+
+** ÓRGÃO: 24000 - Ministério da Ciência, Tecnologia e Inovações**  
+  
+---  
+  
+** UNIDADE: 24101 - Ministério da Ciência, Tecnologia e Inovações -
+Administração Direta**
+
+|  
+  
+** ANEXO I**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (APLICAÇÃO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+FUNCIONAL
+
+|
+
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 0910**
+
+|
+
+** Operações Especiais: Gestão da Participação em Organismos e Entidades
+Nacionais e Internacionais**
+
+|
+
+** 327.258**  
+  
+|
+
+|
+
+** Operações Especiais**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 28 846**
+
+|
+
+** 0910 00U8**
+
+|
+
+** Contribuição Voluntária à Organização para Proibição de Armas Químicas -
+OPAQ**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 327.258**  
+  
+28 846
+
+|
+
+0910 00U8 0002
+
+|
+
+Contribuição Voluntária à Organização para Proibição de Armas Químicas - OPAQ
+- No Exterior
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+327.258  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+3
+
+|
+
+2
+
+|
+
+80
+
+|
+
+0
+
+|
+
+100
+
+|
+
+327.258  
+  
+** 2204**
+
+|
+
+** Brasil na Fronteira do Conhecimento**
+
+|
+
+** 542.000**  
+  
+|
+
+|
+
+** Operações Especiais**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 19 211**
+
+|
+
+** 2204 00PN**
+
+|
+
+** Participação do Brasil, como País não Membro, em Atividades de Cooperação
+Econômica junto à Organização para Cooperação e Desenvolvimento Econômico -
+OCDE e seus órgãos vinculados**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 542.000**  
+  
+19 211
+
+|
+
+2204 00PN 0002
+
+|
+
+Participação do Brasil, como País não Membro, em Atividades de Cooperação
+Econômica junto à Organização para Cooperação e Desenvolvimento Econômico -
+OCDE e seus órgãos vinculados - No Exterior
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+542.000  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+3
+
+|
+
+2
+
+|
+
+80
+
+|
+
+0
+
+|
+
+100
+
+|
+
+542.000  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 869.258**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 869.258**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 26000 - Ministério da Educação**  
+  
+** UNIDADE: 26248 - Universidade Federal Rural de Pernambuco**
+
+|  
+  
+** ANEXO I**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (APLICAÇÃO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+FUNCIONAL
+
+|
+
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 0910**
+
+|
+
+** Operações Especiais: Gestão da Participação em Organismos e Entidades
+Nacionais e Internacionais**
+
+|
+
+** 7.000**  
+  
+|
+
+|
+
+** Operações Especiais**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 28 846**
+
+|
+
+** 0910 00OQ**
+
+|
+
+** Contribuições a Organismos Internacionais sem Exigência de Programação
+Específica**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 7.000**  
+  
+28 846
+
+|
+
+0910 00OQ 0002
+
+|
+
+Contribuições a Organismos Internacionais sem Exigência de Programação
+Específica - No Exterior
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+7.000  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+3
+
+|
+
+2
+
+|
+
+80
+
+|
+
+0
+
+|
+
+150
+
+|
+
+7.000  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 7.000**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 7.000**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 26000 - Ministério da Educação**  
+  
+** UNIDADE: 26276 - Fundação Universidade Federal de Mato Grosso**
+
+|  
+  
+** ANEXO I**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (APLICAÇÃO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+FUNCIONAL
+
+|
+
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 0032**
+
+|
+
+** Programa de Gestão e Manutenção do Poder Executivo**
+
+|
+
+** 51.932**  
+  
+|
+
+|
+
+** Atividades**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 12 122**
+
+|
+
+** 0032 216H**
+
+|
+
+** Ajuda de Custo para Moradia ou Auxílio-Moradia a Agentes Públicos**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 51.932**  
+  
+12 122
+
+|
+
+0032 216H 0051
+
+|
+
+Ajuda de Custo para Moradia ou Auxílio-Moradia a Agentes Públicos - No Estado
+de Mato Grosso
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+51.932  
+  
+|
+
+|
+
+Agente público beneficiado (unidade): 2
+
+|
+
+F
+
+|
+
+3
+
+|
+
+2
+
+|
+
+90
+
+|
+
+8
+
+|
+
+100
+
+|
+
+51.932  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 51.932**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 51.932**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 26000 - Ministério da Educação**  
+  
+** UNIDADE: 26457 - Universidade Federal do Norte do Tocantins**
+
+|  
+  
+** ANEXO I**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (APLICAÇÃO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+FUNCIONAL
+
+|
+
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 0032**
+
+|
+
+** Programa de Gestão e Manutenção do Poder Executivo**
+
+|
+
+** 20.000**  
+  
+|
+
+|
+
+** Atividades**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 12 122**
+
+|
+
+** 0032 216H**
+
+|
+
+** Ajuda de Custo para Moradia ou Auxílio-Moradia a Agentes Públicos**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 20.000**  
+  
+12 122
+
+|
+
+0032 216H 0017
+
+|
+
+Ajuda de Custo para Moradia ou Auxílio-Moradia a Agentes Públicos - No Estado
+do Tocantins
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+20.000  
+  
+|
+
+|
+
+Agente público beneficiado (unidade): 1
+
+|
+
+F
+
+|
+
+3
+
+|
+
+2
+
+|
+
+90
+
+|
+
+8
+
+|
+
+100
+
+|
+
+20.000  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 20.000**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 20.000**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 30000 - Ministério da Justiça e Segurança Pública**  
+  
+** UNIDADE: 30101 - Ministério da Justiça e Segurança Pública - Administração
+Direta**
+
+|  
+  
+** ANEXO I**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (APLICAÇÃO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+FUNCIONAL
+
+|
+
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 5015**
+
+|
+
+** Justiça**
+
+|
+
+** 90.000**  
+  
+|
+
+|
+
+** Operações Especiais**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 14 211**
+
+|
+
+** 5015 00PN**
+
+|
+
+** Participação do Brasil, como País não Membro, em Atividades de Cooperação
+Econômica junto à Organização para Cooperação e Desenvolvimento Econômico -
+OCDE e seus órgãos vinculados**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 90.000**  
+  
+14 211
+
+|
+
+5015 00PN 0002
+
+|
+
+Participação do Brasil, como País não Membro, em Atividades de Cooperação
+Econômica junto à Organização para Cooperação e Desenvolvimento Econômico -
+OCDE e seus órgãos vinculados - Exterior
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+90.000  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+3
+
+|
+
+2
+
+|
+
+80
+
+|
+
+0
+
+|
+
+100
+
+|
+
+90.000  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 90.000**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 90.000**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 32000 - Ministério de Minas e Energia**  
+  
+** UNIDADE: 32314 - Empresa de Pesquisa Energética - EPE**
+
+|  
+  
+** ANEXO I**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (APLICAÇÃO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+FUNCIONAL
+
+|
+
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 0909**
+
+|
+
+** Operações Especiais: Outros Encargos Especiais**
+
+|
+
+** 110.000**  
+  
+|
+
+|
+
+** Operações Especiais**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 25 211**
+
+|
+
+** 0909 00PN**
+
+|
+
+** Participação do Brasil, como País não Membro, em Atividades de Cooperação
+Econômica junto à Organização para Cooperação e Desenvolvimento Econômico -
+OCDE e seus órgãos vinculados**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 110.000**  
+  
+25 211
+
+|
+
+0909 00PN 0002
+
+|
+
+Participação do Brasil, como País não Membro, em Atividades de Cooperação
+Econômica junto à Organização para Cooperação e Desenvolvimento Econômico -
+OCDE e seus órgãos vinculados - Exterior
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+110.000  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+3
+
+|
+
+2
+
+|
+
+80
+
+|
+
+0
+
+|
+
+100
+
+|
+
+110.000  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 110.000**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 110.000**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 39000 - Ministério da Infraestrutura**  
+  
+** UNIDADE: 39252 - Departamento Nacional de Infraestrutura de Transportes -
+DNIT**
+
+|  
+  
+** ANEXO I**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (APLICAÇÃO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+FUNCIONAL
+
+|
+
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 0909**
+
+|
+
+** Operações Especiais: Outros Encargos Especiais**
+
+|
+
+** 400.000**  
+  
+|
+
+|
+
+** Operações Especiais**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 28 846**
+
+|
+
+** 0909 00U0**
+
+|
+
+** Pagamento de despesas referentes a Condenações Judiciais (extinta RFFSA)**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 400.000**  
+  
+28 846
+
+|
+
+0909 00U0 0001
+
+|
+
+Pagamento de despesas referentes a Condenações Judiciais (extinta RFFSA) -
+Nacional
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+400.000  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+3
+
+|
+
+2
+
+|
+
+90
+
+|
+
+0
+
+|
+
+100
+
+|
+
+400.000  
+  
+** 3006**
+
+|
+
+** Transporte Terrestre e Trânsito**
+
+|
+
+** 10.450.000**  
+  
+|
+
+|
+
+** Projetos**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 26 782**
+
+|
+
+** 3006 108X**
+
+|
+
+** Implantação de Postos de Pesagem**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 10.000.000**  
+  
+26 782
+
+|
+
+3006 108X 0021
+
+|
+
+Implantação de Postos de Pesagem - No Estado do Maranhão
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+10.000.000  
+  
+|
+
+|
+
+Posto implantado (unidade): 3
+
+|
+
+F
+
+|
+
+4
+
+|
+
+2
+
+|
+
+90
+
+|
+
+0
+
+|
+
+100
+
+|
+
+10.000.000  
+  
+** 26 782**
+
+|
+
+** 3006 1558**
+
+|
+
+** Adequação de Trecho Rodoviário - Fortaleza - Pacajus - na BR-116/CE**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 450.000**  
+  
+26 782
+
+|
+
+3006 1558 0023
+
+|
+
+Adequação de Trecho Rodoviário - Fortaleza - Pacajus - na BR-116/CE - No
+Estado do Ceará
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+450.000  
+  
+|
+
+|
+
+Trecho adequado (quilômetro): 1
+
+|
+
+F
+
+|
+
+4
+
+|
+
+2
+
+|
+
+90
+
+|
+
+0
+
+|
+
+100
+
+|
+
+450.000  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 10.850.000**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 10.850.000**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 41000 - Ministério das Comunicações**  
+  
+** UNIDADE: 41902 - Fundo de Universalização dos Serviços de Telecomunicações
+- FUST**
+
+|  
+  
+** ANEXO I**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (APLICAÇÃO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+FUNCIONAL
+
+|
+
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 2205**
+
+|
+
+** Conecta Brasil**
+
+|
+
+** 10.900.634**  
+  
+|
+
+|
+
+** Operações Especiais**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 24 722**
+
+|
+
+** 2205 00UA**
+
+|
+
+** Subvenção Econômica para a Ampliação do Acesso de Escolas Públicas à
+Internet em Banda Larga (Lei nº 9.998, de 17 de agosto de 2000)**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 10.900.634**  
+  
+24 722
+
+|
+
+2205 00UA 0001
+
+|
+
+Subvenção Econômica para a Ampliação do Acesso de Escolas Públicas à Internet
+em Banda Larga (Lei nº 9.998, de 2000) - Nacional
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+10.900.634  
+  
+|
+
+|
+
+Projeto apoiado (unidade): 979
+
+|
+
+F
+
+|
+
+3
+
+|
+
+2
+
+|
+
+60
+
+|
+
+0
+
+|
+
+172
+
+|
+
+5.900.634  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+3
+
+|
+
+2
+
+|
+
+60
+
+|
+
+0
+
+|
+
+178
+
+|
+
+5.000.000  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 10.900.634**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 10.900.634**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 53000 - Ministério do Desenvolvimento Regional**  
+  
+** UNIDADE: 53204 - Departamento Nacional de Obras Contra as Secas \- DNOCS**
+
+|  
+  
+** ANEXO I**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (APLICAÇÃO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+FUNCIONAL
+
+|
+
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 2221**
+
+|
+
+** Recursos Hídricos**
+
+|
+
+** 12.500.000**  
+  
+|
+
+|
+
+** Projetos**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 18 544**
+
+|
+
+** 2221 1N64**
+
+|
+
+** Implantação da Adutora Pajeú nos Estados de Pernambuco e Paraíba**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 12.500.000**  
+  
+18 544
+
+|
+
+2221 1N64 0020
+
+|
+
+Implantação da Adutora Pajeú nos Estados de Pernambuco e Paraíba - Na Região
+Nordeste
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+12.500.000  
+  
+|
+
+|
+
+Obra executada (percentual de execução física): 6
+
+|
+
+F
+
+|
+
+4
+
+|
+
+2
+
+|
+
+90
+
+|
+
+0
+
+|
+
+100
+
+|
+
+12.500.000  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 12.500.000**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 12.500.000**  
+  
+**  
+**
+
+**  
+**
+
+|  
+  
+---|---  
+  
+** ÓRGÃO: 24000 - Ministério da Ciência, Tecnologia e Inovações**  
+  
+** UNIDADE: 24101 - Ministério da Ciência, Tecnologia e Inovações -
+Administração Direta**
+
+|  
+  
+** ANEXO II**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (CANCELAMENTO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+FUNCIONAL
+
+|
+
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 0032**
+
+|
+
+** Programa de Gestão e Manutenção do Poder Executivo**
+
+|
+
+** 327.258**  
+  
+|
+
+|
+
+** Atividades**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 19 121**
+
+|
+
+** 0032 4210**
+
+|
+
+** Formulação, Gestão e Manutenção de Políticas e do Sistema Nacional de
+Ciência, Tecnologia e Inovações**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 327.258**  
+  
+19 121
+
+|
+
+0032 4210 0001
+
+|
+
+Formulação, Gestão e Manutenção de Políticas e do Sistema Nacional de Ciência,
+Tecnologia e Inovações - Nacional
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+327.258  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+3
+
+|
+
+2
+
+|
+
+90
+
+|
+
+0
+
+|
+
+100
+
+|
+
+327.258  
+  
+** 2204**
+
+|
+
+** Brasil na Fronteira do Conhecimento**
+
+|
+
+** 271.000**  
+  
+|
+
+|
+
+** Atividades**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 19 212**
+
+|
+
+** 2204 6147**
+
+|
+
+** Cooperação Internacional em Ciência, Tecnologia e Inovação**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 271.000**  
+  
+19 212
+
+|
+
+2204 6147 0001
+
+|
+
+Cooperação Internacional em Ciência, Tecnologia e Inovação - Nacional
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+271.000  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+3
+
+|
+
+2
+
+|
+
+90
+
+|
+
+0
+
+|
+
+100
+
+|
+
+271.000  
+  
+** 2208**
+
+|
+
+** Tecnologias Aplicadas, Inovação e Desenvolvimento Sustentável**
+
+|
+
+** 271.000**  
+  
+|
+
+|
+
+** Atividades**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 19 572**
+
+|
+
+** 2208 20V6**
+
+|
+
+** Fomento à Pesquisa e ao Desenvolvimento Voltados à Inovação, às Tecnologias
+Digitais e ao Processo Produtivo**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 271.000**  
+  
+19 572
+
+|
+
+2208 20V6 0001
+
+|
+
+Fomento à Pesquisa e ao Desenvolvimento Voltados à Inovação, às Tecnologias
+Digitais e ao Processo Produtivo - Nacional
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+271.000  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+3
+
+|
+
+2
+
+|
+
+90
+
+|
+
+0
+
+|
+
+100
+
+|
+
+271.000  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 869.258**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 869.258**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 26000 - Ministério da Educação**  
+  
+** UNIDADE: 26248 - Universidade Federal Rural de Pernambuco**
+
+|  
+  
+** ANEXO II**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (CANCELAMENTO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+FUNCIONAL
+
+|
+
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 5013**
+
+|
+
+** Educação Superior - Graduação, Pós-Graduação, Ensino, Pesquisa e Extensão**
+
+|
+
+** 7.000**  
+  
+|
+
+|
+
+** Atividades**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 12 364**
+
+|
+
+** 5013 20RK**
+
+|
+
+** Funcionamento de Instituições Federais de Ensino Superior**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 7.000**  
+  
+12 364
+
+|
+
+5013 20RK 0026
+
+|
+
+Funcionamento de Instituições Federais de Ensino Superior - No Estado de
+Pernambuco
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+7.000  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+3
+
+|
+
+2
+
+|
+
+90
+
+|
+
+8
+
+|
+
+150
+
+|
+
+7.000  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 7.000**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 7.000**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 26000 - Ministério da Educação**  
+  
+** UNIDADE: 26276 - Fundação Universidade Federal de Mato Grosso**
+
+|  
+  
+** ANEXO II**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (CANCELAMENTO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+FUNCIONAL
+
+|
+
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 5013**
+
+|
+
+** Educação Superior - Graduação, Pós-Graduação, Ensino, Pesquisa e Extensão**
+
+|
+
+** 51.932**  
+  
+|
+
+|
+
+** Atividades**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 12 364**
+
+|
+
+** 5013 20RK**
+
+|
+
+** Funcionamento de Instituições Federais de Ensino Superior**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 51.932**  
+  
+12 364
+
+|
+
+5013 20RK 0051
+
+|
+
+Funcionamento de Instituições Federais de Ensino Superior - No Estado de Mato
+Grosso
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+51.932  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+3
+
+|
+
+2
+
+|
+
+90
+
+|
+
+8
+
+|
+
+100
+
+|
+
+51.932  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 51.932**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 51.932**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 26000 - Ministério da Educação**  
+  
+** UNIDADE: 26457 - Universidade Federal do Norte do Tocantins**
+
+|  
+  
+** ANEXO II**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (CANCELAMENTO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+FUNCIONAL
+
+|
+
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 5013**
+
+|
+
+** Educação Superior - Graduação, Pós-Graduação, Ensino, Pesquisa e Extensão**
+
+|
+
+** 20.000**  
+  
+|
+
+|
+
+** Atividades**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 12 364**
+
+|
+
+** 5013 20RK**
+
+|
+
+** Funcionamento de Instituições Federais de Ensino Superior**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 20.000**  
+  
+12 364
+
+|
+
+5013 20RK 0017
+
+|
+
+Funcionamento de Instituições Federais de Ensino Superior - No Estado do
+Tocantins
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+20.000  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+3
+
+|
+
+2
+
+|
+
+90
+
+|
+
+8
+
+|
+
+100
+
+|
+
+20.000  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 20.000**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 20.000**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 30000 - Ministério da Justiça e Segurança Pública**  
+  
+** UNIDADE: 30101 - Ministério da Justiça e Segurança Pública - Administração
+Direta**
+
+|  
+  
+** ANEXO II**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (CANCELAMENTO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+FUNCIONAL
+
+|
+
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 5015**
+
+|
+
+** Justiça**
+
+|
+
+** 90.000**  
+  
+|
+
+|
+
+** Atividades**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 14 422**
+
+|
+
+** 5015 2334**
+
+|
+
+** Proteção e Defesa do Consumidor**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 90.000**  
+  
+14 422
+
+|
+
+5015 2334 0001
+
+|
+
+Proteção e Defesa do Consumidor - Nacional
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+90.000  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+3
+
+|
+
+2
+
+|
+
+80
+
+|
+
+0
+
+|
+
+100
+
+|
+
+90.000  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 90.000**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 90.000**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 32000 - Ministério de Minas e Energia**  
+  
+** UNIDADE: 32314 - Empresa de Pesquisa Energética - EPE**
+
+|  
+  
+** ANEXO II**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (CANCELAMENTO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+FUNCIONAL
+
+|
+
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 0910**
+
+|
+
+** Operações Especiais: Gestão da Participação em Organismos e Entidades
+Nacionais e Internacionais**
+
+|
+
+** 110.000**  
+  
+|
+
+|
+
+** Operações Especiais**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 28 846**
+
+|
+
+** 0910 00PW**
+
+|
+
+** Contribuições a Entidades Nacionais sem Exigência de Programação
+Específica**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 110.000**  
+  
+28 846
+
+|
+
+0910 00PW 0001
+
+|
+
+Contribuições a Entidades Nacionais sem Exigência de Programação Específica -
+Nacional
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+110.000  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+3
+
+|
+
+2
+
+|
+
+50
+
+|
+
+0
+
+|
+
+100
+
+|
+
+110.000  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 110.000**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 110.000**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 39000 - Ministério da Infraestrutura**  
+  
+** UNIDADE: 39252 - Departamento Nacional de Infraestrutura de Transportes -
+DNIT**
+
+|  
+  
+** ANEXO II**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (CANCELAMENTO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+FUNCIONAL
+
+|
+
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 0032**
+
+|
+
+** Programa de Gestão e Manutenção do Poder Executivo**
+
+|
+
+** 400.000**  
+  
+|
+
+|
+
+** Atividades**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 26 122**
+
+|
+
+** 0032 2000**
+
+|
+
+** Administração da Unidade**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 400.000**  
+  
+26 122
+
+|
+
+0032 2000 0001
+
+|
+
+Administração da Unidade - Nacional
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+400.000  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+3
+
+|
+
+2
+
+|
+
+90
+
+|
+
+0
+
+|
+
+100
+
+|
+
+400.000  
+  
+** 3006**
+
+|
+
+** Transporte Terrestre e Trânsito**
+
+|
+
+** 10.450.000**  
+  
+|
+
+|
+
+** Projetos**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 26 782**
+
+|
+
+** 3006 10L3**
+
+|
+
+** Adequação de Trecho Rodoviário - Caucaia - Entroncamento Acesso ao Porto de
+Pecém - na BR-222/CE**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 450.000**  
+  
+26 782
+
+|
+
+3006 10L3 0023
+
+|
+
+Adequação de Trecho Rodoviário - Caucaia - Entroncamento Acesso ao Porto de
+Pecém - na BR-222/CE - No Estado do Ceará
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+450.000  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+4
+
+|
+
+2
+
+|
+
+90
+
+|
+
+0
+
+|
+
+100
+
+|
+
+450.000  
+  
+** 26 782**
+
+|
+
+** 3006 7W84**
+
+|
+
+** Adequação de Trecho Rodoviário - Trecho Estiva - Entroncamento BR-222
+(Miranda do Norte) na BR-135/MA**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 10.000.000**  
+  
+26 782
+
+|
+
+3006 7W84 0021
+
+|
+
+Adequação de Trecho Rodoviário - Trecho Estiva - Entroncamento BR-222 (Miranda
+do Norte) na BR-135/MA - No Estado do Maranhão
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+10.000.000  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+4
+
+|
+
+2
+
+|
+
+90
+
+|
+
+0
+
+|
+
+100
+
+|
+
+10.000.000  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 10.850.000**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 10.850.000**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 41000 - Ministério das Comunicações**  
+  
+** UNIDADE: 41902 - Fundo de Universalização dos Serviços de Telecomunicações
+- FUST**
+
+|  
+  
+** ANEXO II**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (CANCELAMENTO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+FUNCIONAL
+
+|
+
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 2205**
+
+|
+
+** Conecta Brasil**
+
+|
+
+** 10.900.634**  
+  
+|
+
+|
+
+** Atividades**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 24 722**
+
+|
+
+** 2205 20ZE**
+
+|
+
+** Universalização e Massificação dos Serviços de Telecomunicações**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 900.634**  
+  
+24 722
+
+|
+
+2205 20ZE 0001
+
+|
+
+Universalização e Massificação dos Serviços de Telecomunicações - Nacional
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+900.634  
+  
+|
+
+|
+
+Projeto apoiado (unidade): 1
+
+|
+
+F
+
+|
+
+3
+
+|
+
+2
+
+|
+
+90
+
+|
+
+0
+
+|
+
+172
+
+|
+
+900.634  
+  
+|
+
+|
+
+** Operações Especiais**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 24 722**
+
+|
+
+** 2205 00ST**
+
+|
+
+** Universalização do Acesso de Escolas Públicas à Internet em Banda Larga (§
+2º do Art. 1º da Lei nº 9.998, de 17 de agosto de 2000)**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 10.000.000**  
+  
+24 722
+
+|
+
+2205 00ST 0001
+
+|
+
+Universalização do Acesso de Escolas Públicas à Internet em Banda Larga (§ 2º
+do Art. 1º **** da Lei nº 9.998, de 2000) - Nacional
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+10.000.000  
+  
+|
+
+|
+
+Escola conectada (unidade): 979
+
+|
+
+F
+
+|
+
+3
+
+|
+
+2
+
+|
+
+30
+
+|
+
+0
+
+|
+
+172
+
+|
+
+5.000.000  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+3
+
+|
+
+2
+
+|
+
+40
+
+|
+
+0
+
+|
+
+178
+
+|
+
+5.000.000  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 10.900.634**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 10.900.634**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 53000 - Ministério do Desenvolvimento Regional**  
+  
+** UNIDADE: 53204 - Departamento Nacional de Obras Contra as Secas - DNOCS**
+
+|  
+  
+** ANEXO II**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (CANCELAMENTO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+FUNCIONAL
+
+|
+
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 2221**
+
+|
+
+** Recursos Hídricos**
+
+|
+
+** 12.500.000**  
+  
+|
+
+|
+
+** Atividades**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 18 544**
+
+|
+
+** 2221 21DD**
+
+|
+
+** Reabilitação de Barragens e de Outras Infraestruturas Hídricas**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 12.500.000**  
+  
+18 544
+
+|
+
+2221 21DD 0001
+
+|
+
+Reabilitação de Barragens e de Outras Infraestruturas Hídricas - Nacional
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+12.500.000  
+  
+|
+
+|
+
+Infraestrutura recuperada (unidade): 2
+
+|
+
+F
+
+|
+
+4
+
+|
+
+2
+
+|
+
+90
+
+|
+
+0
+
+|
+
+100
+
+|
+
+12.500.000  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 12.500.000**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 12.500.000**  
+  
+**  
+**
+
+|
+

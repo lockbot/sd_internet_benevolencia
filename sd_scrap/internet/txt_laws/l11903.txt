@@ -1,0 +1,291 @@
+![](../../2008/Decreto/Image4.gif)
+
+|
+
+**Presidência da República  
+Casa Civil  
+Subchefia para Assuntos Jurídicos**  
+  
+---|---  
+  
+**LEI Nº 11.903, DE 14 DE JANEIRO DE 2009.**
+
+|
+
+Dispõe sobre o rastreamento da produção e do consumo de medicamentos por meio
+de tecnologia de captura, armazenamento e transmissão eletrônica de dados.  
+  
+---|---  
+  
+** O PRESIDENTE DA REPÚBLICA ** Faço saber que o Congresso Nacional decreta e
+eu sanciono a seguinte Lei:
+
+Art. 1 _o_ É criado o Sistema Nacional de Controle de Medicamentos, envolvendo
+a produção, comercialização, dispensação e a prescrição médica, odontológica e
+veterinária, assim como os demais tipos de movimentação previstos pelos
+controles sanitários.
+
+Art. 1º É criado o Sistema Nacional de Controle de Medicamentos, visando a
+controlar a produção, a distribuição, a comercialização, a dispensação e a
+prescrição médica, odontológica e, caso contenha medicamento de uso humano,
+veterinária, assim como os demais tipos de movimentação previstos pelos
+controles sanitários. (Redação dada pela Lei nº 13.410, de 2016)
+
+Art. 2 _o_ Todo e qualquer medicamento produzido, dispensado ou vendido no
+território nacional será controlado por meio do Sistema Nacional de Controle
+de Medicamentos.
+
+Art. 2º O órgão de vigilância sanitária federal competente determinará, em
+normativa própria, as categorias de medicamentos produzidos, distribuídos,
+comercializados, dispensados ou prescritos no território nacional sujeitos ao
+Sistema Nacional de Controle de Medicamentos. (Redação dada pela Lei nº
+13.410, de 2016)
+
+Parágrafo único. O controle aplica-se igualmente às prescrições médicas,
+odontológicas e veterinárias.
+
+Parágrafo único. (Revogado). (Redação dada pela Lei nº 13.410, de 2016)
+
+Art. 3 _o_ O controle será realizado por meio de sistema de identificação
+exclusivo dos produtos, prestadores de serviços e usuários, com o emprego de
+tecnologias de captura, armazenamento e transmissão eletrônica de dados.
+
+~~Art. 3º O controle será realizado por meio de sistema de identificação
+individualizado de medicamentos, com o emprego de tecnologias de captura,
+armazenamento e transmissão eletrônica de dados.(Redação dada pela Lei nº
+13.410, de 2016)~~
+
+Art. 3º O controle será realizado por meio do sistema de identificação de
+medicamentos, com o emprego de tecnologias de captura, armazenamento e
+transmissão eletrônica de dados.  (Redação dada pela Lei nº 14.338, de 2022)
+
+§ 1 _o_ Os produtos e seus distribuidores receberão identificação específica
+baseada em sistema de captura de dados por via eletrônica, para os seguintes
+componentes do Sistema Nacional de Controle de Medicamentos:
+
+§ 1 _o_ As embalagens de todos os medicamentos registrados receberão
+identificação específica baseada em sistema de captura, armazenamento e
+transmissão eletrônica de dados, contendo minimamente as seguintes
+informações: (Redação dada pela Lei nº 13.410, de 2016)
+
+I – fabricante (autorização de funcionamento, licença estadual e alvará
+sanitário municipal dos estabelecimentos fabricantes);
+
+I - número de registro do medicamento no órgão de vigilância sanitária federal
+competente; (Redação dada pela Lei nº 13.410, de 2016)
+
+II – fornecedor (atacadistas, varejistas, exportadores e importadores de
+medicamentos);
+
+II - número de série único do medicamento; (Redação dada pela Lei nº 13.410,
+de 2016) (Revogado pela Lei nº 14.338, de 2022)
+
+II - (revogado); (Redação dada pela Lei nº 14.338, de 2022)
+
+III – comprador (inclusive estabelecimentos requisitantes de produtos não
+aviados em receitas com múltiplos produtos);
+
+III - número do lote ou da partida do medicamento; (Redação dada pela Lei nº
+13.410, de 2016)
+
+IV – produto (produto aviado ou dispensado e sua quantidade);
+
+IV - data de validade do medicamento; (Redação dada pela Lei nº 13.410, de
+2016)
+
+V – unidades de transporte/logísticas;
+
+V - (revogado); (Redação dada pela Lei nº 13.410, de 2016) (Vide Lei nº
+13.410, de 2016)
+
+VI – consumidor/paciente;
+
+VI - (revogado); (Redação dada pela Lei nº 13.410, de 2016) (Vide Lei nº
+13.410, de 2016)
+
+VII – prescrição (inclusive produtos não aviados numa receita com múltiplos
+produtos);
+
+VII - (revogado); (Redação dada pela Lei nº 13.410, de 2016) (Vide Lei nº
+13.410, de 2016)
+
+VIII – médico, odontólogo e veterinário (inscrição no conselho de classe dos
+profissionais prescritores).
+
+VIII - (revogado). (Redação dada pela Lei nº 13.410, de 2016) (Vide Lei nº
+13.410, de 2016)
+
+IX - código de barras bidimensional de leitura rápida que direcione a endereço
+na internet que dê acesso à bula digital do medicamento em questão.  (Incluído
+pela Lei nº 14.338, de 2022)
+
+§ 2 _o_ Além dos listados nos incisos do § 1 _o_ deste artigo, poderão ser
+incluídos pelo órgão de vigilância sanitária federal outros componentes
+ligados à produção, distribuição, importação, exportação, comercialização,
+prescrição e uso de medicamentos.
+
+§ 2 _o_ O órgão de vigilância sanitária federal competente e o detentor do
+registro do produto poderão incluir outras informações, além das apresentadas
+nos incisos I, II, III e IV do § 1 _o_. (Redação dada pela Lei nº 13.410, de
+2016)
+
+§ 2º O detentor do registro do produto poderá incluir outras informações, além
+das referidas nos incisos do § 1º deste artigo.  (Redação dada pela Lei nº
+14.338, de 2022)
+
+§ 3º As bulas digitais de que trata o inciso IX deste artigo devem ser
+hospedadas em **links** autorizados pelo órgão de vigilância sanitária federal
+competente.  (Incluído pela Lei nº 14.338, de 2022)
+
+§ 4º A inclusão de informações em formato digital pelo órgão de vigilância
+sanitária federal competente ou pelo detentor do registro do produto em
+formato único não substituirá a necessidade da sua apresentação também em
+formato de bula impressa, com todas as informações necessárias em conformidade
+com a regulamentação do órgão de vigilância sanitária federal, observado
+idêntico conteúdo disponível digitalmente, inclusive em relação às normas de
+acessibilidade para as pessoas com deficiência.  (Incluído pela Lei nº 14.338,
+de 2022)
+
+§ 5º A autoridade sanitária poderá definir quais medicamentos terão apenas um
+formato de bula.  (Incluído pela Lei nº 14.338, de 2022)
+
+§ 6º A bula digital a que se refere o inciso IX do § 1º deste artigo terá, no
+mínimo, as seguintes características:  (Incluído pela Lei nº 14.338, de 2022)
+
+I - conteúdo completo e atualizado, idêntico ao da bula impressa;  (Incluído
+pela Lei nº 14.338, de 2022)
+
+II - formato que facilite a leitura e a compreensão;  (Incluído pela Lei nº
+14.338, de 2022)
+
+III - possibilidade de conversão do texto em áudio e/ou vídeo mediante o uso
+de aplicativo adequado.  (Incluído pela Lei nº 14.338, de 2022)
+
+Art. 3º-A. O detentor de registro de medicamento deverá possuir sistema que
+permita a elaboração de mapa de distribuição de medicamentos, com
+identificação dos quantitativos comercializados e distribuídos para cada lote,
+bem como dos destinatários das remessas.  (Incluído pela Lei nº 14.338, de
+2022)
+
+§ 1º O mapa de distribuição de medicamentos, bem como as embalagens, devem
+conter, obrigatoriamente:  (Incluído pela Lei nº 14.338, de 2022)
+
+I - número de lote do medicamento;  (Incluído pela Lei nº 14.338, de 2022)
+
+II - data de fabricação do lote;  (Incluído pela Lei nº 14.338, de 2022)
+
+III - data de validade do lote.  (Incluído pela Lei nº 14.338, de 2022)
+
+§ 2º Após a conclusão da regulamentação do disposto no **caput** deste artigo,
+as demais etapas do sistema deverão ser implantadas em até 12 (doze) meses.
+(Incluído pela Lei nº 14.338, de 2022)
+
+~~Art. 4 _o_ O órgão de vigilância sanitária federal competente implantará e
+coordenará o Sistema Nacional de Controle de Medicamentos.~~ (Revogado pela
+Lei nº 14.338, de 2022)
+
+Parágrafo único. O órgão definirá o conteúdo, a periodicidade e a
+responsabilidade pelo recebimento e auditoria dos balanços das transações
+comerciais necessários para o controle de que trata o art. 3 _o_ desta Lei.
+(Revogado pela Lei nº 13.410, de 2016)
+
+~~Art. 4 _o_ -A. O Sistema Nacional de Controle de Medicamentos deverá contar
+com banco de dados centralizado em instituição do governo federal, para
+armazenamento e consulta das movimentações dos medicamentos sob sua
+responsabilidade. (Incluído pela Lei nº 13.410, de 2016) ~~ (Revogado pela Lei
+nº 14.338, de 2022)
+
+~~§ 1 _o_ Cada membro da cadeia de movimentação de medicamentos é responsável
+por transmitir ao banco de dados a que se refere o **caput** todos os
+registros a respeito da circulação dos medicamentos sob sua custódia.
+(Incluído pela Lei nº 13.410, de 2016) ~~ (Revogado pela Lei nº 14.338, de
+2022)
+
+~~§ 2 _o_ As informações deverão estar consolidadas em banco de dados que
+permita a consulta pelo órgão de vigilância sanitária federal competente,
+quando solicitado. (Incluído pela Lei nº 13.410, de 2016)~~ (Revogado pela Lei
+nº 14.338, de 2022)
+
+~~§ 3 _o_ Comete infração sanitária o estabelecimento que deixar de comunicar
+qualquer informação a respeito da movimentação de medicamento. (Incluído pela
+Lei nº 13.410, de 2016)~~ (Revogado pela Lei nº 14.338, de 2022)
+
+~~§ 4 _o_ O membro da cadeia de movimentação de medicamentos terá acesso, para
+consulta, apenas aos dados por ele inseridos no sistema e àqueles estritamente
+necessários à adição de novas informações sobre a movimentação dos
+medicamentos sob sua custódia. (Incluído pela Lei nº 13.410, de 2016) ~~
+(Revogado pela Lei nº 14.338, de 2022)
+
+~~§ 5 _o_ As informações constantes do banco de dados previsto no **caput**
+devem ser tratadas como informações confidenciais, não podendo ser divulgadas
+ou comercializadas. (Incluído pela Lei nº 13.410, de 2016)~~ (Revogado pela
+Lei nº 14.338, de 2022)
+
+Art. 5 _o_ O órgão de vigilância sanitária federal competente implantará o
+sistema no prazo gradual de 3 (três) anos, sendo a inclusão dos componentes
+referentes ao art. 3 _o_ desta Lei feita da seguinte forma:
+
+~~Art. 5 _o_ O órgão de vigilância sanitária federal competente regulamentará
+os aspectos operacionais do Sistema Nacional de Controle de Medicamentos no
+prazo de quatro meses, prorrogável mediante justificativa. (Redação dada pela
+Lei nº 13.410, de 2016) (Vide Lei nº 13.410, de 2016) ~~ (Revogado pela Lei nº
+14.338, de 2022)
+
+~~ I – no primeiro ano, os referentes aos incisos I e II do § 1 _o_; ~~
+
+~~I - (revogado);(Redação dada pela Lei nº 13.410, de 2016) (Vide Lei nº
+13.410, de 2016) ~~ (Revogado pela Lei nº 14.338, de 2022)
+
+II – no segundo ano, os referentes aos incisos III, IV e V do § 1 _o_;
+
+~~II - (revogado);(Redação dada pela Lei nº 13.410, de 2016) (Vide Lei nº
+13.410, de 2016) ~~ (Revogado pela Lei nº 14.338, de 2022)
+
+III – no terceiro ano, os referentes aos incisos VI, VII e VIII do § 1 _o_.
+
+~~III - (revogado).(Redação dada pela Lei nº 13.410, de 2016) (Vide Lei nº
+13.410, de 2016) ~~ (Revogado pela Lei nº 14.338, de 2022)
+
+~~Parágrafo único. Depois de concluída a regulamentação de que trata o
+**caput** , as demais etapas de implantação do Sistema Nacional de Controle de
+Medicamentos obedecerão aos seguintes prazos: (Incluído pela Lei nº 13.410, de
+2016) ~~ (Revogado pela Lei nº 14.338, de 2022)
+
+~~I - até um ano, para que a indústria, os importadores e os representantes da
+distribuição e do varejo escolhidos pelo órgão de vigilância sanitária federal
+competente possam, em caráter experimental, receber e transmitir dados
+referentes a, no mínimo, três lotes de medicamentos que contenham as
+informações previstas nos incisos I, II, III e IV do § 1 _o_ do art. 3 _o_ ;
+(Incluído pela Lei nº 13.410, de 2016)~~ (Revogado pela Lei nº 14.338, de
+2022)
+
+~~II - até oito meses após o término da etapa estabelecida no inciso I deste
+parágrafo para que os resultados obtidos durante a fase experimental sejam
+objeto de análise, correção e relatório de validação pelo órgão de vigilância
+sanitária federal competente, por meio do Comitê Gestor;(Incluído pela Lei nº
+13.410, de 2016) ~~ (Revogado pela Lei nº 14.338, de 2022)
+
+~~III - até três anos após o término da etapa estabelecida no inciso II deste
+parágrafo, para a completa implementação do Sistema Nacional de Controle de
+Medicamentos.(Incluído pela Lei nº 13.410, de 2016)~~ (Revogado pela Lei nº
+14.338, de 2022)
+
+Art. 6 _o_ O órgão de vigilância sanitária federal competente estabelecerá as
+listas de medicamentos de venda livre, de venda sob prescrição e retenção de
+receita e de venda sob responsabilidade do farmacêutico, sem retenção de
+receita.
+
+Art. 7 _o_ Esta Lei entra em vigor na data de sua publicação.
+
+Brasília, 14 de janeiro de 2009; 188 _o_ da Independência e 121 _o_ da
+República.
+
+LUIZ INÁCIO LULA DA SILVA  
+Reinhold Stephanes  
+_Márcia Bassit Lameiro Costa Mazzoli  
+Miguel Jorge_
+
+Este texto não substitui o publicado no DOU de 15.1.2009
+
+*
+

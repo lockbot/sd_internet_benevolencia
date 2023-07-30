@@ -1,3 +1,8 @@
+# Heavy file, trained model
+*.pt
+model_quali/
+model_quali.pt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

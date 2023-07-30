@@ -1,0 +1,5172 @@
+
+
+![Brasão das Armas Nacionais da República Federativa do
+Brasil](http://www.planalto.gov.br/ccivil_03/img/brasao.png)
+
+|
+
+** Presidência da República** **  
+** ** Secretaria-Geral** **  
+** ** Subchefia para Assuntos Jurídicos**  
+  
+---|---  
+  
+** LEI Nº 14.507, DE 26 DE DEZEMBRO DE 2022 **
+
+|
+
+Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Educação, da
+Justiça e Segurança Pública, do Trabalho e Previdência e da Infraestrutura,
+crédito especial no valor de R$ 114.328.578,00, para os fins que especifica.  
+  
+---|---  
+  
+**O PRESIDENTE DA REPÚBLICA** Faço saber que o Congresso Nacional decreta e eu
+sanciono a seguinte Lei:
+
+Art. 1º Fica aberto ao Orçamento Fiscal da União  (Lei nº 14.303, de 21 de
+janeiro de 2022), em favor dos Ministérios da Educação, da Justiça e Segurança
+Pública, do Trabalho e Previdência e da Infraestrutura, crédito especial no
+valor de R$ 114.328.578,00 (cento e quatorze milhões trezentos e vinte e oito
+mil quinhentos e setenta e oito reais),  para atender às programações
+constantes do Anexo I.
+
+Art. 2º Os recursos necessários à abertura do crédito de que trata o art. 1º
+decorrem de anulação de dotações orçamentárias, conforme indicado no Anexo II.
+
+Art. 3º Esta Lei entra em vigor na data de sua publicação.
+
+Brasília, 26 de dezembro de 2022; 201º da Independência e 134º da República.
+
+JAIR MESSIAS BOLSONARO
+
+Marcelo Pacheco dos Guaranys
+
+Este texto não substitui o publicado no DOU de 27.12.2022
+
+** ÓRGÃO: 26000 - Ministério da Educação**
+
+** UNIDADE: 26285 - Fundação Universidade Federal de São João del-Rei**
+
+|  
+  
+---|---  
+  
+** ANEXO I**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (APLICAÇÃO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+FUNCIONAL
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 0032**
+
+|
+
+** Programa de Gestão e Manutenção do Poder Executivo**
+
+|
+
+|
+
+** 86.680**  
+  
+|
+
+** Atividades**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 0032 216H**
+
+|
+
+** Ajuda de Custo para Moradia ou Auxílio-Moradia a Agentes Públicos**
+
+|
+
+** 12 122**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 86.680**  
+  
+0032 216H 0031
+
+|
+
+Ajuda de Custo para Moradia ou Auxílio-Moradia a Agentes Públicos - No Estado
+de Minas Gerais
+
+|
+
+12 122
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+86.680  
+  
+|
+
+Agente público beneficiado (unidade): 5
+
+|
+
+|
+
+F
+
+|
+
+3-ODC
+
+|
+
+2
+
+|
+
+90
+
+|
+
+8
+
+|
+
+100
+
+|
+
+86.680  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 86.680**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 86.680**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 30000 - Ministério da Justiça e Segurança Pública**  
+  
+** UNIDADE: 30101 - Ministério da Justiça e Segurança Pública - Administração
+Direta**
+
+|  
+  
+** ANEXO I**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (APLICAÇÃO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+FUNCIONAL
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 5015**
+
+|
+
+** Justiça**
+
+|
+
+|
+
+** 156.000**  
+  
+|
+
+** Operações Especiais**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 5015 00U4**
+
+|
+
+** Contribuição Voluntária para o Programa Ibero-Americano de Acesso à Justiça
+(PIAJ)**
+
+|
+
+** 14 211**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 156.000**  
+  
+5015 00U4 0002
+
+|
+
+Contribuição Voluntária para o Programa Ibero-Americano de Acesso à Justiça
+(PIAJ) - Exterior
+
+|
+
+14 211
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+156.000  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+3-ODC
+
+|
+
+2
+
+|
+
+80
+
+|
+
+0
+
+|
+
+100
+
+|
+
+156.000  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 156.000**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 156.000**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 30000 - Ministério da Justiça e Segurança Pública**  
+  
+** UNIDADE: 30108 - Departamento de Polícia Federal**
+
+|  
+  
+** ANEXO I**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (APLICAÇÃO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+FUNCIONAL
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 0909**
+
+|
+
+** Operações Especiais: Outros Encargos Especiais**
+
+|
+
+|
+
+** 6.820.969**  
+  
+|
+
+** Operações Especiais**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 0909 00UI**
+
+|
+
+** Indenização pela Disponibilização Voluntária durante o Repouso Remunerado**
+
+|
+
+** 28 846**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 6.820.969**  
+  
+0909 00UI 0001
+
+|
+
+Indenização pela Disponibilização Voluntária durante o Repouso Remunerado -
+Nacional
+
+|
+
+28 846
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+6.820.969  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+3-ODC
+
+|
+
+2
+
+|
+
+90
+
+|
+
+0
+
+|
+
+374
+
+|
+
+6.820.969  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 6.820.969**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 6.820.969**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 39000 - Ministério da Infraestrutura**  
+  
+** UNIDADE: 39252 - Departamento Nacional de Infraestrutura de Transportes -
+DNIT**
+
+|  
+  
+** ANEXO I**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (APLICAÇÃO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+FUNCIONAL
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 3006**
+
+|
+
+** Transporte Terrestre e Trânsito**
+
+|
+
+|
+
+** 1.008.105**  
+  
+|
+
+** Projetos**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 3006 10L7**
+
+|
+
+** Construção de Trecho Rodoviário - Porto Alegre - Esteio - Sapucaia - na
+BR-448/RS**
+
+|
+
+** 26 782**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 1.008.105**  
+  
+3006 10L7 0043
+
+|
+
+Construção de Trecho Rodoviário - Porto Alegre - Esteio - Sapucaia - na
+BR-448/RS - No Estado do Rio Grande do Sul
+
+|
+
+26 782
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1.008.105  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+4-INV
+
+|
+
+2
+
+|
+
+90
+
+|
+
+0
+
+|
+
+100
+
+|
+
+1.008.105  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 1.008.105**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 1.008.105**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 39000 - Ministério da Infraestrutura**  
+  
+** UNIDADE: 39902 - Fundo Nacional de Aviação Civil - FNAC**
+
+|  
+  
+** ANEXO I**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (APLICAÇÃO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+FUNCIONAL
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 3004**
+
+|
+
+** Aviação Civil**
+
+|
+
+|
+
+** 1.690.887**  
+  
+|
+
+** Projetos**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 3004 14UB**
+
+|
+
+** Construção, Reforma e Reaparelhamento de Aeroportos e Aeródromos de
+Interesse Regional**
+
+|
+
+** 26 781**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 690.887**  
+  
+3004 14UB 3384
+
+|
+
+Construção, Reforma e Reaparelhamento de Aeroportos e Aeródromos de Interesse
+Regional - No Município de Americana - SP
+
+|
+
+26 781
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+690.887  
+  
+|
+
+Aeroporto adequado (unidade): 1
+
+|
+
+|
+
+F
+
+|
+
+4-INV
+
+|
+
+2
+
+|
+
+40
+
+|
+
+0
+
+|
+
+180
+
+|
+
+690.887  
+  
+** 3004 15YQ**
+
+|
+
+** Reforma, ampliação e reaparelhamento do Aeroporto de Santa Rosa/RS**
+
+|
+
+** 26 781**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 1.000.000**  
+  
+3004 15YQ 5071
+
+|
+
+Reforma, ampliação e reaparelhamento do Aeroporto de Santa Rosa/RS - No
+Município de Santa Rosa - RS
+
+|
+
+26 781
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1.000.000  
+  
+|
+
+Aeroporto adequado (percentual de execução): 5
+
+|
+
+|
+
+F
+
+|
+
+4-INV
+
+|
+
+2
+
+|
+
+90
+
+|
+
+0
+
+|
+
+129
+
+|
+
+159.483  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+4-INV
+
+|
+
+2
+
+|
+
+90
+
+|
+
+0
+
+|
+
+180
+
+|
+
+840.517  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 1.690.887**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 1.690.887**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 40000 - Ministério do Trabalho e Previdência**  
+  
+** UNIDADE: 40101 - Ministério do Trabalho e Previdência - Administração
+Direta**
+
+|  
+  
+** ANEXO I**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (APLICAÇÃO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+FUNCIONAL
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 0909**
+
+|
+
+** Operações Especiais: Outros Encargos Especiais**
+
+|
+
+|
+
+** 104.565.937**  
+  
+|
+
+** Operações Especiais**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 0909 0643**
+
+|
+
+** Complemento da Atualização Monetária dos Recursos do Fundo de Garantia do
+Tempo de Serviço - FGTS (Lei Complementar nº 110, de 2001)**
+
+|
+
+** 28 846**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 104.565.937**  
+  
+0909 0643 0001
+
+|
+
+Complemento da Atualização Monetária dos Recursos do Fundo de Garantia do
+Tempo de Serviço - FGTS (Lei Complementar nº 110, de 2001) - Nacional
+
+|
+
+28 846
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+104.565.937  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+3-ODC
+
+|
+
+1
+
+|
+
+90
+
+|
+
+0
+
+|
+
+100
+
+|
+
+14.319.105  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+3-ODC
+
+|
+
+1
+
+|
+
+90
+
+|
+
+0
+
+|
+
+184
+
+|
+
+90.246.832  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 104.565.937**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 104.565.937**  
+  
+|  
+  
+** ÓRGÃO: 22000 - Ministério da Agricultura, Pecuária e Abastecimento**  
+  
+** UNIDADE: 22101 - Ministério da Agricultura, Pecuária e Abastecimento -
+Administração Direta**
+
+|  
+  
+** ANEXO II**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (CANCELAMENTO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+FUNCIONAL
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 1031**
+
+|
+
+** Agropecuária Sustentável**
+
+|
+
+|
+
+** 370.677**  
+  
+|
+
+** Atividades**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 1031 20ZV**
+
+|
+
+** Fomento ao Setor Agropecuário**
+
+|
+
+** 20 608**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 370.677**  
+  
+1031 20ZV 0001
+
+|
+
+Fomento ao Setor Agropecuário - Nacional
+
+|
+
+20 608
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+370.677  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+4-INV
+
+|
+
+8
+
+|
+
+40
+
+|
+
+0
+
+|
+
+100
+
+|
+
+370.677  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 370.677**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 370.677**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 25000 - Ministério da Economia**  
+  
+** UNIDADE: 25101 - Ministério da Economia - Administração Direta**
+
+|  
+  
+** ANEXO II**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (CANCELAMENTO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+FUNCIONAL
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 0909**
+
+|
+
+** Operações Especiais: Outros Encargos Especiais**
+
+|
+
+|
+
+** 445.790**  
+  
+|
+
+** Operações Especiais**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 0909 0556**
+
+|
+
+** Apoio Financeiro à Fundação Getúlio Vargas**
+
+|
+
+** 04 364**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 445.790**  
+  
+0909 0556 0001
+
+|
+
+Apoio Financeiro à Fundação Getúlio Vargas - Nacional
+
+|
+
+04 364
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+445.790  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+3-ODC
+
+|
+
+8
+
+|
+
+50
+
+|
+
+0
+
+|
+
+100
+
+|
+
+445.790  
+  
+** 2212**
+
+|
+
+** Melhoria do Ambiente de Negócios e da Produtividade**
+
+|
+
+|
+
+** 2.613.995**  
+  
+|
+
+** Atividades**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 2212 210C**
+
+|
+
+** Promoção do Desenvolvimento de Micro e Pequenas Empresas, Microeemprendedor
+Individual, Potencial Empreendedor e Artesanato**
+
+|
+
+** 23 691**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 2.613.995**  
+  
+2212 210C 0001
+
+|
+
+Promoção do Desenvolvimento de Micro e Pequenas Empresas, Microeemprendedor
+Individual, Potencial Empreendedor e Artesanato - Nacional
+
+|
+
+23 691
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2.613.995  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+3-ODC
+
+|
+
+8
+
+|
+
+90
+
+|
+
+0
+
+|
+
+100
+
+|
+
+2.613.995  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 3.059.785**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 3.059.785**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 26000 - Ministério da Educação**  
+  
+** UNIDADE: 26285 - Fundação Universidade Federal de São João del-Rei**
+
+|  
+  
+** ANEXO II**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (CANCELAMENTO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+FUNCIONAL
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 5013**
+
+|
+
+** Educação Superior - Graduação, Pós-Graduação, Ensino, Pesquisa e Extensão**
+
+|
+
+|
+
+** 86.680**  
+  
+|
+
+** Atividades**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 5013 20RK**
+
+|
+
+** Funcionamento de Instituições Federais de Ensino Superior**
+
+|
+
+** 12 364**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 86.680**  
+  
+5013 20RK 0031
+
+|
+
+Funcionamento de Instituições Federais de Ensino Superior - No Estado de Minas
+Gerais
+
+|
+
+12 364
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+86.680  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+3-ODC
+
+|
+
+2
+
+|
+
+90
+
+|
+
+8
+
+|
+
+100
+
+|
+
+86.680  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 86.680**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 86.680**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 26000 - Ministério da Educação**  
+  
+** UNIDADE: 26298 - Fundo Nacional de Desenvolvimento da Educação**
+
+|  
+  
+** ANEXO II**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (CANCELAMENTO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+FUNCIONAL
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 5011**
+
+|
+
+** Educação Básica de Qualidade**
+
+|
+
+|
+
+** 2.156.603**  
+  
+|
+
+** Operações Especiais**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 5011 0E53**
+
+|
+
+** Aquisição de Veículos para o Transporte Escolar da Educação Básica -
+Caminho da Escola**
+
+|
+
+** 12 368**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 2.156.603**  
+  
+5011 0E53 0001
+
+|
+
+Aquisição de Veículos para o Transporte Escolar da Educação Básica - Caminho
+da Escola - Nacional
+
+|
+
+12 368
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2.156.603  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+4-INV
+
+|
+
+8
+
+|
+
+40
+
+|
+
+8
+
+|
+
+113
+
+|
+
+2.156.603  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 2.156.603**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 2.156.603**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 30000 - Ministério da Justiça e Segurança Pública**  
+  
+** UNIDADE: 30101 - Ministério da Justiça e Segurança Pública - Administração
+Direta**
+
+|  
+  
+** ANEXO II**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (CANCELAMENTO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+FUNCIONAL
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 5015**
+
+|
+
+** Justiça**
+
+|
+
+|
+
+** 156.000**  
+  
+|
+
+** Atividades**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 5015 20I7**
+
+|
+
+** Promoção da Política Nacional de Justiça**
+
+|
+
+** 14 422**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 156.000**  
+  
+5015 20I7 0001
+
+|
+
+Promoção da Política Nacional de Justiça - Nacional
+
+|
+
+14 422
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+156.000  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+3-ODC
+
+|
+
+2
+
+|
+
+80
+
+|
+
+0
+
+|
+
+100
+
+|
+
+156.000  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 156.000**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 156.000**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 30000 - Ministério da Justiça e Segurança Pública**  
+  
+** UNIDADE: 30108 - Departamento de Polícia Federal**
+
+|  
+  
+** ANEXO II**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (CANCELAMENTO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+FUNCIONAL
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 0032**
+
+|
+
+** Programa de Gestão e Manutenção do Poder Executivo**
+
+|
+
+|
+
+** 6.820.969**  
+  
+|
+
+** Atividades**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 0032 2000**
+
+|
+
+** Administração da Unidade**
+
+|
+
+** 06 122**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 6.820.969**  
+  
+0032 2000 0001
+
+|
+
+Administração da Unidade - Nacional
+
+|
+
+06 122
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+6.820.969  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+3-ODC
+
+|
+
+2
+
+|
+
+90
+
+|
+
+0
+
+|
+
+350
+
+|
+
+6.820.969  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 6.820.969**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 6.820.969**  
+  
+**  
+**
+
+|  
+  
+---|---  
+  
+** ÓRGÃO: 36000 - Ministério da Saúde**  
+  
+** UNIDADE: 36901 - Fundo Nacional de Saúde**
+
+|  
+  
+** ANEXO II**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (CANCELAMENTO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+FUNCIONAL
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 5019**
+
+|
+
+** Atenção Primária à Saúde**
+
+|
+
+|
+
+** 39.379.589**  
+  
+|
+
+** Atividades**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 5019 2E89**
+
+|
+
+** Incremento Temporário ao Custeio dos Serviços de Atenção Primária à Saúde
+para Cumprimento de Metas**
+
+|
+
+** 10 301**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 39.379.589**  
+  
+5019 2E89 0001
+
+|
+
+Incremento Temporário ao Custeio dos Serviços de Atenção Primária à Saúde para
+Cumprimento de Metas - Nacional
+
+|
+
+10 301
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+39.379.589  
+  
+|
+
+|
+
+|
+
+S
+
+|
+
+3-ODC
+
+|
+
+8
+
+|
+
+41
+
+|
+
+6
+
+|
+
+153
+
+|
+
+12.076.975  
+  
+|
+
+|
+
+|
+
+S
+
+|
+
+3-ODC
+
+|
+
+8
+
+|
+
+41
+
+|
+
+6
+
+|
+
+188
+
+|
+
+21.566.027  
+  
+|
+
+|
+
+|
+
+S
+
+|
+
+3-ODC
+
+|
+
+8
+
+|
+
+90
+
+|
+
+6
+
+|
+
+153
+
+|
+
+5.736.587  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 0**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 39.379.589**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 39.379.589**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 39000 - Ministério da Infraestrutura**  
+  
+** UNIDADE: 39252 - Departamento Nacional de Infraestrutura de Transportes -
+DNIT**
+
+|  
+  
+** ANEXO II**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (CANCELAMENTO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+FUNCIONAL
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 3006**
+
+|
+
+** Transporte Terrestre e Trânsito**
+
+|
+
+|
+
+** 1.008.105**  
+  
+|
+
+** Projetos**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 3006 7X78**
+
+|
+
+** Adequação de Trecho Rodoviário - São José dos Ausentes - Divisa RS/SC - na
+BR-285/RS**
+
+|
+
+** 26 782**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 1.008.105**  
+  
+3006 7X78 0043
+
+|
+
+Adequação de Trecho Rodoviário - São José dos Ausentes - Divisa RS/SC - na
+BR-285/RS - No Estado do Rio Grande do Sul
+
+|
+
+26 782
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1.008.105  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+4-INV
+
+|
+
+2
+
+|
+
+90
+
+|
+
+0
+
+|
+
+100
+
+|
+
+1.008.105  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 1.008.105**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 1.008.105**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 39000 - Ministério da Infraestrutura**  
+  
+** UNIDADE: 39902 - Fundo Nacional de Aviação Civil - FNAC**
+
+|  
+  
+** ANEXO II**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (CANCELAMENTO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+FUNCIONAL
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 0032**
+
+|
+
+** Programa de Gestão e Manutenção do Poder Executivo**
+
+|
+
+|
+
+** 196.965**  
+  
+|
+
+** Atividades**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 0032 20UC**
+
+|
+
+** Estudos, Projetos e Planejamento de Infraestrutura de Transportes**
+
+|
+
+** 26 121**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 196.965**  
+  
+0032 20UC 0001
+
+|
+
+Estudos, Projetos e Planejamento de Infraestrutura de Transportes - Nacional
+
+|
+
+26 121
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+196.965  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+4-INV
+
+|
+
+2
+
+|
+
+90
+
+|
+
+0
+
+|
+
+180
+
+|
+
+196.965  
+  
+** 0909**
+
+|
+
+** Operações Especiais: Outros Encargos Especiais**
+
+|
+
+|
+
+** 139.548**  
+  
+|
+
+** Operações Especiais**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 0909 00TW**
+
+|
+
+** Pagamento de Indenização à Concessionária do Aeroporto de São Gonçalo do
+Amarante/RN**
+
+|
+
+** 28 846**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 139.548**  
+  
+0909 00TW 1304
+
+|
+
+Pagamento de Indenização à Concessionária do Aeroporto de São Gonçalo do
+Amarante/RN - No Município de São Gonçalo do Amarante \- RN
+
+|
+
+28 846
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+139.548  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+3-ODC
+
+|
+
+2
+
+|
+
+90
+
+|
+
+0
+
+|
+
+129
+
+|
+
+139.548  
+  
+** 3004**
+
+|
+
+** Aviação Civil**
+
+|
+
+|
+
+** 1.354.374**  
+  
+|
+
+** Atividades**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 3004 210F**
+
+|
+
+** Desenvolvimento da Aviação Civil (Gestão)**
+
+|
+
+** 26 122**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 284.634**  
+  
+3004 210F 0001
+
+|
+
+Desenvolvimento da Aviação Civil (Gestão) - Nacional
+
+|
+
+26 122
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+284.634  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+3-ODC
+
+|
+
+2
+
+|
+
+90
+
+|
+
+0
+
+|
+
+129
+
+|
+
+19.935  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+3-ODC
+
+|
+
+2
+
+|
+
+90
+
+|
+
+0
+
+|
+
+180
+
+|
+
+213.821  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+4-INV
+
+|
+
+2
+
+|
+
+90
+
+|
+
+0
+
+|
+
+180
+
+|
+
+50.878  
+  
+|
+
+** Projetos**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 3004 14UB**
+
+|
+
+** Construção, Reforma e Reaparelhamento de Aeroportos e Aeródromos de
+Interesse Regional**
+
+|
+
+** 26 781**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 444.412**  
+  
+3004 14UB 0225
+
+|
+
+Construção, Reforma e Reaparelhamento de Aeroportos e Aeródromos de Interesse
+Regional - No Município de São Gabriel da Cachoeira \- AM
+
+|
+
+26 781
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+50.000  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+4-INV
+
+|
+
+2
+
+|
+
+90
+
+|
+
+0
+
+|
+
+180
+
+|
+
+50.000  
+  
+3004 14UB 4545
+
+|
+
+Construção, Reforma e Reaparelhamento de Aeroportos e Aeródromos de Interesse
+Regional - No Município de Joaçaba - SC
+
+|
+
+26 781
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+274.735  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+4-INV
+
+|
+
+2
+
+|
+
+90
+
+|
+
+0
+
+|
+
+180
+
+|
+
+274.735  
+  
+3004 14UB 5083
+
+|
+
+Construção, Reforma e Reaparelhamento de Aeroportos e Aeródromos de Interesse
+Regional - No Município de São Borja - RS
+
+|
+
+26 781
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+99.677  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+4-INV
+
+|
+
+2
+
+|
+
+90
+
+|
+
+0
+
+|
+
+180
+
+|
+
+99.677  
+  
+3004 14UB 5230
+
+|
+
+Construção, Reforma e Reaparelhamento de Aeroportos e Aeródromos de Interesse
+Regional - No Município de Dourados - MS
+
+|
+
+26 781
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+20.000  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+4-INV
+
+|
+
+2
+
+|
+
+90
+
+|
+
+0
+
+|
+
+180
+
+|
+
+20.000  
+  
+** 3004 15UW**
+
+|
+
+** Reforma e reaparelhamento do Aeroporto de Maringá/PR**
+
+|
+
+** 26 781**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 428.620**  
+  
+3004 15UW 4219
+
+|
+
+Reforma e reaparelhamento do Aeroporto de Maringá/PR - No Município de Maringá
+- PR
+
+|
+
+26 781
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+428.620  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+4-INV
+
+|
+
+2
+
+|
+
+40
+
+|
+
+0
+
+|
+
+180
+
+|
+
+428.620  
+  
+** 3004 15UX**
+
+|
+
+** Reforma e reaparelhamento do Aeroporto de Coari/AM**
+
+|
+
+** 26 781**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 61.973**  
+  
+3004 15UX 0193
+
+|
+
+Reforma e reaparelhamento do Aeroporto de Coari/AM - No Município de Coari -
+AM
+
+|
+
+26 781
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+61.973  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+4-INV
+
+|
+
+2
+
+|
+
+90
+
+|
+
+0
+
+|
+
+180
+
+|
+
+61.973  
+  
+** 3004 15V1**
+
+|
+
+** Instalação de equipamentos de auxílios à navegação Aérea**
+
+|
+
+** 26 781**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 134.735**  
+  
+3004 15V1 0001
+
+|
+
+Instalação de equipamentos de auxílios à navegação Aérea - Nacional
+
+|
+
+26 781
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+134.735  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+4-INV
+
+|
+
+2
+
+|
+
+90
+
+|
+
+0
+
+|
+
+180
+
+|
+
+134.735  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 1.690.887**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 1.690.887**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 52000 - Ministério da Defesa**  
+  
+** UNIDADE: 52131 - Comando da Marinha**
+
+|  
+  
+** ANEXO II**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (CANCELAMENTO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+FUNCIONAL
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 6012**
+
+|
+
+** Defesa Nacional**
+
+|
+
+|
+
+** 37.067**  
+  
+|
+
+** Projetos**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 6012 14T7**
+
+|
+
+** Desenvolvimento de Sistemas de Tecnologia Nuclear da Marinha**
+
+|
+
+** 05 572**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 37.067**  
+  
+6012 14T7 0001
+
+|
+
+Desenvolvimento de Sistemas de Tecnologia Nuclear da Marinha - Nacional
+
+|
+
+05 572
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+37.067  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+4-INV
+
+|
+
+8
+
+|
+
+90
+
+|
+
+0
+
+|
+
+100
+
+|
+
+37.067  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 37.067**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 37.067**  
+  
+|  
+  
+---|---  
+  
+** ÓRGÃO: 53000 - Ministério do Desenvolvimento Regional**  
+  
+** UNIDADE: 53101 - Ministério do Desenvolvimento Regional - Administração
+Direta**
+
+|  
+  
+** ANEXO II**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (CANCELAMENTO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+FUNCIONAL
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 2219**
+
+|
+
+** Mobilidade Urbana**
+
+|
+
+|
+
+** 34.783.933**  
+  
+|
+
+** Operações Especiais**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 2219 00T1**
+
+|
+
+** Apoio à Política Nacional de Desenvolvimento Urbano Voltado à Implantação e
+Qualificação Viária**
+
+|
+
+** 15 451**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 34.783.933**  
+  
+2219 00T1 0001
+
+|
+
+Apoio à Política Nacional de Desenvolvimento Urbano Voltado à Implantação e
+Qualificação Viária - Nacional
+
+|
+
+15 451
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+34.783.933  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+4-INV
+
+|
+
+8
+
+|
+
+40
+
+|
+
+0
+
+|
+
+100
+
+|
+
+18.031.973  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+4-INV
+
+|
+
+8
+
+|
+
+40
+
+|
+
+0
+
+|
+
+188
+
+|
+
+16.751.960  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 34.783.933**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 34.783.933**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 55000 - Ministério da Cidadania**  
+  
+** UNIDADE: 55101 - Ministério da Cidadania - Administração Direta**
+
+|  
+  
+** ANEXO II**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (CANCELAMENTO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+FUNCIONAL
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 5026**
+
+|
+
+** Esporte**
+
+|
+
+|
+
+** 21.951.133**  
+  
+|
+
+** Operações Especiais**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 5026 00SL**
+
+|
+
+** Apoio à Implantação e Modernização de Infraestrutura para Esporte
+Educacional, Recreativo e de Lazer**
+
+|
+
+** 27 812**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 21.951.133**  
+  
+5026 00SL 0001
+
+|
+
+Apoio à Implantação e Modernização de Infraestrutura para Esporte Educacional,
+Recreativo e de Lazer - Nacional
+
+|
+
+27 812
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+21.951.133  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+4-INV
+
+|
+
+8
+
+|
+
+40
+
+|
+
+0
+
+|
+
+100
+
+|
+
+21.951.133  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 21.951.133**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 21.951.133**  
+  
+**  
+**
+
+|  
+  
+** ÓRGÃO: 81000 - Ministério da Mulher, da Família e dos Direitos Humanos**  
+  
+** UNIDADE: 81101 - Ministério da Mulher, da Família e dos Direitos Humanos -
+Administração Direta**
+
+|  
+  
+** ANEXO II**
+
+|
+
+** Crédito Especial**  
+  
+** PROGRAMA DE TRABALHO (CANCELAMENTO)**
+
+|
+
+** Recurso de Todas as Fontes R$ 1,00**  
+  
+PROGRAMÁTICA
+
+|
+
+PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO
+
+|
+
+FUNCIONAL
+
+|
+
+E  
+S  
+F
+
+|
+
+G  
+N  
+D
+
+|
+
+R  
+P
+
+|
+
+M  
+O  
+D
+
+|
+
+I  
+U
+
+|
+
+F  
+T  
+E
+
+|
+
+VALOR  
+  
+** 5034**
+
+|
+
+** Proteção à Vida, Fortalecimento da Família, Promoção e Defesa dos Direitos
+Humanos para Todos**
+
+|
+
+|
+
+** 2.827.150**  
+  
+|
+
+** Atividades**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+** 5034 21AR**
+
+|
+
+** Promoção e Defesa de Direitos Humanos para todos**
+
+|
+
+** 14 422**
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+** 2.827.150**  
+  
+5034 21AR 0001
+
+|
+
+Promoção e Defesa de Direitos Humanos para todos - Nacional
+
+|
+
+14 422
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2.827.150  
+  
+|
+
+|
+
+|
+
+F
+
+|
+
+4-INV
+
+|
+
+8
+
+|
+
+90
+
+|
+
+0
+
+|
+
+100
+
+|
+
+2.827.150  
+  
+** TOTAL - FISCAL**
+
+|
+
+** 2.827.150**  
+  
+** TOTAL - SEGURIDADE**
+
+|
+
+** 0**  
+  
+** TOTAL - GERAL**
+
+|
+
+** 2.827.150**  
+  
+|
+
